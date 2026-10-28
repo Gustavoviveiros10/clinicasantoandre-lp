@@ -1,0 +1,4 @@
+# Versão de prospecção: bloqueada para indexação.
+# TODO(fechamento): trocar por "Allow: /" e apontar o sitemap para o domínio do cliente.
+User-agent: *
+Disallow: /

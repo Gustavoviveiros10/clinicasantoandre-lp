@@ -1,0 +1,23 @@
+# Clínica Santo André
+
+> Clínica médica no bairro Bonfim, em Belo Horizonte (MG), com atendimento em 15 áreas e exame de ultrassonografia, para crianças, adultos e idosos. Atendimento com hora marcada, particular ou pelos convênios Amagis Saúde e Santo André Planos de Assistência Médica.
+
+## Dados
+- Endereço: Rua Mariana, 1150 – Bonfim, Belo Horizonte – MG, CEP 31210-420 (região Noroeste)
+- Telefone e WhatsApp: (31) 3564-8900
+- Horário: segunda a sexta, 7h30 às 18h, com hora marcada
+- Convênios: Amagis Saúde; Santo André Planos de Assistência Médica; também atende particular
+- Avaliação: nota 5,0 em 68 opiniões no Doctoralia (outubro de 2026)
+- CNPJ: 40.488.104/0001-01
+
+## Áreas de atendimento
+- Saúde da mulher: ginecologia e obstetrícia, ultrassonografia
+- Crianças: pediatria, psicopedagogia
+- Adulto e idoso: clínico geral, cardiologia, angiologia, geriatria, endocrinologia e metabologia, neurologia, ortopedia e traumatologia, dermatologia, oftalmologia
+- Mente e bem-estar: psicologia, psiquiatria, nutrição
+
+## Bairros próximos
+Bonfim, Lagoinha, Carlos Prates, Santo André, São Cristóvão, Padre Eustáquio e Centro de Belo Horizonte.
+
+## Página
+- [Página principal](https://gustavoviveiros10.github.io/clinicasantoandre-lp/): especialidades, convênios, estrutura, perguntas frequentes e localização.
